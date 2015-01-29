@@ -15,7 +15,13 @@ hellos = [
     "Hey %, Hello!",
     "Marnin', %",
     "Good day, %",
-    "Good 'aye!, %"
+    "Good 'aye!, %",
+    "Hi %",
+    "hey %",
+    "sup &",
+    "yo %",
+    "hello &"
+    
 ]
 mornings = [
     "Good morning, %",
